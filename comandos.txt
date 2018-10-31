@@ -7,3 +7,15 @@ copy - copia arquivo ou diretorio
 del - deleta arquivo
 rd - deleta diretorio vazio
 rd /s - deleta diretorio e subpastas nele
+
+GIT
+
+git clone - copia um repositorio do browser para a maquina
+git pull - atualiza os conteudos do repositorio na maquina
+git add . - adiciona arquivos ou pastas para o diretorio do repositorio
+git commit -m "" - faz um commit
+git push - joga suas alteracoes do repositorio na maquina para o github
+git branch - fala em qual ramo esta 
+git check out branch - muda para o branch escolhido
+git branch -d branch - apaga o branch
+git merge branch - faz o merge do branch atual com o escolhido
