@@ -7,6 +7,7 @@ copy - copia arquivo ou diretorio
 del - deleta arquivo
 rd - deleta diretorio vazio
 rd /s - deleta diretorio e subpastas nele
+start - executa 
 
 GIT
 
