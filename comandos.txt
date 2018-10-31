@@ -1,0 +1,9 @@
+cd - descer diretório
+cd.. - sobe diretório
+cd\ - vai pro diretorio raiz
+cls - limpa 
+md - cria diretorio
+copy - copia arquivo ou diretorio
+del - deleta arquivo
+rd - deleta diretorio vazio
+rd /s - deleta diretorio e subpastas nele
