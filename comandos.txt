@@ -1,3 +1,5 @@
+GERAL
+
 cd - descer diretório
 cd.. - sobe diretório
 cd\ - vai pro diretorio raiz
@@ -7,7 +9,13 @@ copy - copia arquivo ou diretorio
 del - deleta arquivo
 rd - deleta diretorio vazio
 rd /s - deleta diretorio e subpastas nele
+erase - deleta arquivos
 start - executa 
+ren - renomear arquivos ( ex: ren imagem.jpg fotos.jpg )
+shutdown - desligar o pc
+systeminfo - mostra informaçoes sobre o sistema
+tasklist - mostra lista de processos sendo executados
+print - imprime um arquivo e texto
 
 GIT
 
