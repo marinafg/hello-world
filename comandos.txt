@@ -16,6 +16,7 @@ shutdown - desligar o pc
 systeminfo - mostra informaçoes sobre o sistema
 tasklist - mostra lista de processos sendo executados
 print - imprime um arquivo e texto
+exit - fecha o cmd
 
 GIT
 
