@@ -2,6 +2,7 @@ GERAL
 
 cd - descer diretório
 cd.. - sobe diretório
+dir - mostra diretorios
 cd\ - vai pro diretorio raiz
 cls - limpa 
 md - cria diretorio
@@ -29,3 +30,4 @@ git branch - fala em qual ramo esta
 git checkout branch - muda para o branch escolhido
 git branch -d branch - apaga o branch
 git merge branch - faz o merge do branch atual com o escolhido
+git branch --list - lista os ramos
