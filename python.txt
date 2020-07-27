@@ -1,0 +1,20 @@
+palavras chave
+
+Python reserva 33 palavras-chave para o seu uso:
+and del from None True
+as elif global nonlocal try
+assert else if not while
+break except import or with
+class False in pass yield
+continue finally is raise
+def for lambda return
+
+Operadores
++ adicao
+- subtracao
+* multiplicacao
+/ divisao
+// divisao por inteiro
+** exponenciacao
+% resto
+->colocar parenteses para facilitar a compreensao da expressao
